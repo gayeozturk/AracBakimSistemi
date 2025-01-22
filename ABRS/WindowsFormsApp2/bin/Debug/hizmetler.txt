@@ -1,0 +1,8 @@
+1,Yağ Değişimi,Araç motorundaki eski yağın boşaltılıp yeni yağ ile değiştirilmesi,200
+2,Filtre Değişimi,Yağ hava ve yakıt filtrelerinin eski olanların çıkarılıp yeni filtrelerle değiştirilmesi,150
+3,Lastik Bakımı,Lastik basıncının kontrol edilmesi rotasyonu ve dengelenmesi,100
+4,Fren Sistemi Kontrolü,Fren balatalarının disklerin ve hidrolik sisteminin kontrol edilmesi,200
+5,Şasi ve Süspansiyon Kontrolü Araç şasi ve süspansiyon parçalarının kontrol edilmesi ve gerekirse bakımının yapılması,300
+6,Elektrik Sistem Kontrolü,Akü alternatör bujiler ve kabloların kontrol edilmesi ve gerekirse bakımının yapılması,200
+7,Soğutma Sistemi Bakımı,Radyatörün temizlenmesi antifriz seviyesinin kontrol edilmesi ve gerekirse parçaların bakımı,200
+8,Klima Bakımı,Klima sisteminin temizlenmesi filtrelerin değiştirilmesi ve gaz seviyesinin kontrol edilmesi,300

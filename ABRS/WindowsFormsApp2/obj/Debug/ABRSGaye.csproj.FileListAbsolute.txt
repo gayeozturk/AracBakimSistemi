@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\ABRS\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\user\Desktop\ABRS\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\user\Desktop\ABRS\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\user\Desktop\ABRS\WindowsFormsApp2\obj\Debug\ABRSGaye.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ABRS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmAna.resources
+C:\Users\user\Desktop\ABRS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMusteriBilgileri.resources
+C:\Users\user\Desktop\ABRS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMusteriEkleSil.resources
+C:\Users\user\Desktop\ABRS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmPersonelBilgileri.resources
+C:\Users\user\Desktop\ABRS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmPersonleEkleSil.resources
+C:\Users\user\Desktop\ABRS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmRandevuEkleSil.resources
+C:\Users\user\Desktop\ABRS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmRandevuPlanlama.resources
+C:\Users\user\Desktop\ABRS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\user\Desktop\ABRS\WindowsFormsApp2\obj\Debug\ABRSGaye.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ABRS\WindowsFormsApp2\obj\Debug\ABRSGaye.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ABRS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\user\Desktop\ABRS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

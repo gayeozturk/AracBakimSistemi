@@ -1,0 +1,12 @@
+1,Mehmet,Taş,mehmet.taş@example.com,555-234-5678,Mekanik Uzmanı,6033
+2,Ayşe,Arslan,ayşe.arslan@example.com,555-456-7890,Elektrik ve Elektronik Teknisyeni,6482
+3,Zeynep,Yılmaz,zeynep.yılmaz@example.com,555-789-1234,Lastik Uzmanı,5192
+4,Mehmet,Çelik,mehmet.çelik@example.com,555-234-5678,Araç Bakım Sorumlusu,4781
+5,Fatma,Arslan,fatma.arslan@example.com,555-234-5678,Boya Uzmanı,3588
+6,Mustafa,Taş,mustafa.taş@example.com,555-123-4567,Kaporta Uzmanı,4553
+7,Zeynep,Arslan,zeynep.arslan@example.com,555-234-5678,Boya ve Kaporta Sorumlusu,5631
+8,Fatma,Çelik,fatma.çelik@example.com,555-789-1234,Yedek Parça Tedarikçisi,4744
+9,Ahmet,Yılmaz,ahmet.yılmaz@example.com,555-234-5678,Yedek Parça Sorumlusu,6131
+10,Fatma,Taş,fatma.taş@example.com,555-456-7890,Müdür,2415
+11,Murat,Kara,murat.kara@example.com,555-123-4567,İnsan Kaynakları Uzmanı,4579
+12,Ahmet,Arslan,ahmet.arslan@example.com,555-789-1234,Mali İşler Sorumlusu,3891

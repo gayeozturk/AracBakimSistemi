@@ -1,0 +1,20 @@
+1,Ahmet,Yılmaz,5551234567,Ford,Fiesta,Dizel,Mehmet Taş,2,Filtre Değişimi,Yağ hava ve yakıt filtrelerinin eski olanların çıkarılıp yeni filtrelerle değiştirilmesi,150,2024-06-02
+2,Ayşe,Kaya,5552345678,Toyota,Corolla,Benzin,Ayşe Arslan,3,Lastik Bakımı,Lastik basıncının kontrol edilmesi rotasyonu ve dengelenmesi,100,2024-06-03
+3,Fatma,Arslan,5553456789,Honda,Civic,Hibrit,Mehmet Çelik,5,Şasi ve Süspansiyon Kontrolü,Araç şasi ve süspansiyon parçalarının kontrol edilmesi ve gerekirse bakımının yapılması,300,2024-06-05
+4,Mehmet,Yıldırım,5554567890,BMW,3 Serisi,Benzin,Mustafa Taş,1,Yağ Değişimi,Araç motorundaki eski yağın boşaltılıp yeni yağ ile değiştirilmesi,200,2024-06-01
+5,Zeynep,Kara,5555678901,Audi,A3,Dizel,Ahmet Yılmaz,6,Elektrik Sistem Kontrolü,Akü alternatör bujiler ve kabloların kontrol edilmesi ve gerekirse bakımının yapılması,200,2024-06-06
+6,Hasan,Çelik,5556789012,Mercedes-Benz,C-Class,Hibrit,2,Filtre Değişimi,Yağ hava ve yakıt filtrelerinin eski olanların çıkarılıp yeni filtrelerle değiştirilmesi,150,2024-06-02
+7,Gülay,Kurt,5557890123,Peugeot,3008,Dizel,Murat Kara,7,Soğutma Sistemi Bakımı,Radyatörün temizlenmesi antifriz seviyesinin kontrol edilmesi ve gerekirse parçaların bakımı,200,2024-06-07
+8,Serkan,Turan,5558901234,Volkswagen,Passat,Benzin,Ahmet Yılmaz,8,Klima Bakımı,Klima sisteminin temizlenmesi filtrelerin değiştirilmesi ve gaz seviyesinin kontrol edilmesi,300,2024-06-08
+9,Emine,Yılmaz,5559012345,Renault,Clio,Hibrit,Mehmet Çelik,5,Şasi ve Süspansiyon Kontrolü,Araç şasi ve süspansiyon parçalarının kontrol edilmesi ve gerekirse bakımının yapılması,300,2024-06-05
+10,Deniz,Öztürk,5550123456,Hyundai,i20,Benzin,Ayşe Arslan,4,Fren Sistemi Kontrolü,Fren balatalarının disklerin ve hidrolik sisteminin kontrol edilmesi,200,2024-06-04
+11,Hüseyin,Yılmaz,5551230123,Opel,Corsa,Dizel,Mustafa Taş,8,Klima Bakımı,Klima sisteminin temizlenmesi filtrelerin değiştirilmesi ve gaz seviyesinin kontrol edilmesi,300,2024-06-08
+12,Burcu,Yıldız,5552341234,BMW,5 Serisi,Benzin,Murat Kara,7,Soğutma Sistemi Bakımı,Radyatörün temizlenmesi antifriz seviyesinin kontrol edilmesi ve gerekirse parçaların bakımı,200,2024-06-07
+13,Sevgi,Erdoğan,5553452345,Toyota,Yaris,Dizel,Mustafa Taş,1,Yağ Değişimi,Araç motorundaki eski yağın boşaltılıp yeni yağ ile değiştirilmesi,200,2024-06-01
+14,Gökhan,Toprak,5554563456,Ford,Focus,Benzin,Mehmet Çelik,8,Klima Bakımı,Klima sisteminin temizlenmesi filtrelerin değiştirilmesi ve gaz seviyesinin kontrol edilmesi,300,2024-06-08
+15,Seda,Güneş,5555674567,Honda,Jazz,Hibrit,Ahmet Arslan,4,Fren Sistemi Kontrolü,Fren balatalarının disklerin ve hidrolik sisteminin kontrol edilmesi,200,2024-06-04
+16,Erkan,Doğan,5556785678,Mercedes-Benz,E-Class,Dizel,Ahmet Arslan,7,Soğutma Sistemi Bakımı,Radyatörün temizlenmesi antifriz seviyesinin kontrol edilmesi ve gerekirse parçaların bakımı,200,2024-06-07
+17,Pınar,Çetin,5557896789,Peugeot,208,Benzin,Ahmet Yılmaz,3,Lastik Bakımı,Lastik basıncının kontrol edilmesi rotasyonu ve dengelenmesi,100,2024-06-03
+18,Turgut,Aydoğan,5558907890,Volkswagen,Golf,Dizel,Mustafa Taş,6,Elektrik Sistem Kontrolü,Akü alternatör bujiler ve kabloların kontrol edilmesi ve gerekirse bakımının yapılması,200,2024-06-06
+
+
